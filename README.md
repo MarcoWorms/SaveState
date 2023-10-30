@@ -2,10 +2,10 @@
 
 Save and load string-based states in EVM blockchains 
 
-## Contract Addresses
-
 - Fantom: [0x91AFCCEd2446B635E4988ce4E664234E0Ed9C7b0](https://ftmscan.com/address/0x91AFCCEd2446B635E4988ce4E664234E0Ed9C7b0)
 - Other EVM chains soon...
+- Also: add information on size limits
+- Also: add complete example saving localStorage then loading from it
   
 ## Integration Guide
 
